@@ -32,6 +32,8 @@ Este projeto é aberto a contribuições. Caso queira contribuir, siga os seguin
 2. Faça as suas modificações;
 3. Envie um pull request.
 
+Link da [documentação](https://docs.google.com/document/d/1T4uniZ7YlUXfYjhHHkV2h4W4E2uzya64BRVWmS7OkzE/edit?usp=sharing) completa do projeto
+
 ## Licença
 
 Este projeto está licenciado sob a licença MIT.
