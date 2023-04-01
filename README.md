@@ -1,15 +1,15 @@
-# Assistência visual para pessoas com deficiência auditiva
+# Assistência visual para pessoas com deficiência auditiva 👀🔇
 
 Este projeto consiste em um sistema de alarme visual para pessoas com deficiência auditiva. Ao invés de usar um alarme sonoro, o sistema emite um aviso visual através de luzes LED.
 
-## Funcionalidades
+## Funcionalidades 🎛️
 
 O sistema possui as seguintes funcionalidades:
 - Quando alguém toca a campainha, um LED acende em cada cômodo da casa;
 - Os LEDs piscam três vezes para emitir o alerta visual;
 - O usuário pode escolher a cor dos LEDs de acordo com suas preferências.
 
-## Requisitos
+## Requisitos 🛠️
 
 Para utilizar este sistema, é necessário:
 - Um Arduino;
@@ -17,7 +17,7 @@ Para utilizar este sistema, é necessário:
 - Botão de campainha;
 - Conexão à energia elétrica da casa.
 
-## Instalação
+## Instalação 🚀
 
 Para utilizar este sistema, siga os seguintes passos:
 1. Faça o download dos arquivos do projeto;
@@ -25,7 +25,7 @@ Para utilizar este sistema, siga os seguintes passos:
 3. Monte o circuito de acordo com o esquemático fornecido no arquivo .brd;
 4. Conecte o circuito à energia elétrica da casa.
 
-## Contribuições
+## Contribuições 🤝
 
 Este projeto é aberto a contribuições. Caso queira contribuir, siga os seguintes passos:
 1. Faça um fork do projeto;
@@ -34,6 +34,6 @@ Este projeto é aberto a contribuições. Caso queira contribuir, siga os seguin
 
 Link da [documentação](https://docs.google.com/document/d/1T4uniZ7YlUXfYjhHHkV2h4W4E2uzya64BRVWmS7OkzE/edit?usp=sharing) completa do projeto
 
-## Licença
+## Licença 📄
 
 Este projeto está licenciado sob a licença MIT.
